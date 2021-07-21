@@ -81,7 +81,7 @@ More information can be found [here](https://www.dronedeploy.com/blog/what-are-g
 The GCP can be exported and printed automatically with Agisoft Metashape.
 Theoretically, with sufficient resolution of the GCP Agisoft Metashape should recognize the GCP in the data processing automatically. However, if this is not the case the GCP have to set manually.
 
-THe GCP measurements need to be exported as a csv file for every measurement and can be copied on a SD card in the 
+THe GCP measurements https://www.otto.de/p/bauknecht-waschmaschine-super-eco-8421-8-kg-1400-u-min-4-jahre-herstellergarantie-plus-kostenlose-altgeraetemitnahme-1202590285/#variationId=1202590977need to be exported as a csv file for every measurement and can be copied on a SD card in the 
 
 
 <img src="images/gcp.png"
@@ -95,8 +95,9 @@ THe GCP measurements need to be exported as a csv file for every measurement and
      
 <br>
 
+--- 
 
-GNSS measruement## II. Data processing
+II. Data processing
 
 #### 1. Sort
 
@@ -105,6 +106,7 @@ The acquiered data can be sorted by date and sensor. The micasense folder need a
 Let's start with the multispctral data!
 
 > gdfgdf
+> 
 <br>
 
 ![GNSS measruement](images/gcp.png "GNSS measurement")
