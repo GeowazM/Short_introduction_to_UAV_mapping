@@ -12,7 +12,7 @@ A documentation to acquire and process data with an UAV and Agisoft Metashape Pr
      
 
 
-More information: https://rgeo.de/en/p/streuobst/
+More information [here](https://rgeo.de/en/p/streuobst/)
 
 ### Requirements:
 - Unmanned Aerial Vehicle (UAV)
@@ -31,7 +31,7 @@ More information: https://rgeo.de/en/p/streuobst/
 
 </br>
 
-Source: [itsFOURland](https://its4land.com/fly-and-create)
+Source: [itsfourland](https://its4land.com/fly-and-create)
 
 </br>
 
@@ -88,9 +88,24 @@ THe GCP measurements need to be exported as a csv file for every measurement and
     alt="Ground Contol Point (GCP) with GNSS instrument" width=250/>
      
 
+</br>
+
+</br>
 
 
 ## II. Data processing
+
+<img src="images/example_uav_imagery.JPG"
+    alt="Images acquired by UAV"/>
+     
+
+</br></br>
+
+
+<img src="images/example_pointcloud.JPG"
+    alt="An example of a point cloud"/>
+
+
 
 
 
