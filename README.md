@@ -6,15 +6,11 @@ A documentation to acquire and process data with an UAV and Agisoft Metashape Pr
 
 
 
- <img src="images/ipad.webp"
-     alt="rgeo UAV" width=250/>
 
-<img src="images/ipad_2.webp"
-     alt="rgeo UAV" width=250/>
+
 
      
-<img src="images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png"
-     alt="rgeo UAV"/>
+
 
 More information: https://rgeo.de/en/p/streuobst/
 
@@ -26,8 +22,22 @@ More information: https://rgeo.de/en/p/streuobst/
 - License for Agisoft Metashape Professional
 
 
+</br>
+
+<img src="images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png"
+     alt="Generic workflow for UAV data acquisition" width=750 />
+
+
+
+</br>
+
+Source: [itsFOURland](https://its4land.com/fly-and-create)
+
+</br>
+
 ## I. Data acquisition
 The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
+</br>
 
 #### 1. UAV fligth
 
@@ -50,10 +60,16 @@ Image overlaps: 90% in fligth direction and 70% orthogonal to the fligth directi
 After landing, a check of the ligth on top of the multispectral camera is needed to eliminate potential failures.
 
 
+ <img src="images/ipad.webp"
+     alt="ipad" width=250/>
+</br>
+
 
 
      
-     
+</br>
+
+</br>
 
 #### 2. Measureing Groud Control Points (GCP)
 - Requirements:
@@ -67,6 +83,10 @@ Theoretically, with sufficient resolution of the GCP Agisoft Metashape should re
 
 THe GCP measurements need to be exported as a csv file for every measurement and can be copied on a SD card in the 
 
+
+<img src="images/gcp.png"
+    alt="Ground Contol Point (GCP) with GNSS instrument" width=250/>
+     
 
 
 
