@@ -88,18 +88,38 @@ THe GCP measurements need to be exported as a csv file for every measurement and
     alt="Ground Contol Point (GCP) with GNSS instrument" width=250/>
      
 
-</br>
+<br>
 
-</br>
+![GNSS measruement](images/gcp.png "GNSS measurement")
+
+     
+<br>
 
 
-## II. Data processing
+GNSS measruement## II. Data processing
+
+#### 1. Sort
+
+The acquiered data can be sorted by date and sensor. The micasense folder need an extra directory for the reference panels.
+
+Let's start with the multispctral data!
+
+> gdfgdf
+<br>
+
+![GNSS measruement](images/gcp.png "GNSS measurement")
+
+<br>
+
+![UAV imagery](images/example_uav_imagery.JPG "UAV imagery")
+
+<br>
 
 <img src="images/example_uav_imagery.JPG"
     alt="Images acquired by UAV"/>
      
 
-</br></br>
+<br><br>
 
 
 <img src="images/example_pointcloud.JPG"
