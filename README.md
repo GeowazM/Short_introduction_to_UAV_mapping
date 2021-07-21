@@ -20,6 +20,10 @@ More information: https://rgeo.de/en/p/streuobst/
 The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
 
 #### 1. UAV fligth
+
+<img src="images/dji-drone.webp"
+     alt="DJI drone" width=250/>
+     
 - Requirements:
      - iPad with DJI app
      - SD card
@@ -37,6 +41,9 @@ After landing, a check of the ligth on top of the multispectral camera is needed
 
 
 
+
+     
+     
 
 #### 2. Measureing Groud Control Points (GCP)
 - Requirements:
