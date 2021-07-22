@@ -1,20 +1,25 @@
 # An introduction to acquire and process data with an UAV
 A documentation to acquire and process data with an UAV and Agisoft Metashape Professional
 
-<img src="images/Image_UAV_rgeo_crop.jpg"
-     alt="rgeo UAV"/>
 
 
+![Image UAV flying](images/Image_UAV_rgeo_crop.jpg "UAV monitoring orchards")
 
-
-
-
-     
 
 
 More information [here](https://rgeo.de/en/p/streuobst/)
 
-### Requirements:
+
+
+<br>
+
+
+     
+![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow")
+
+<br>
+
+### Technical requirements:
 - Unmanned Aerial Vehicle (UAV)
      Sensors used in this case
      - Zamnese X5S camera
@@ -22,34 +27,31 @@ More information [here](https://rgeo.de/en/p/streuobst/)
 - License for Agisoft Metashape Professional
 
 
-</br>
-
-<img src="images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png"
-     alt="Generic workflow for UAV data acquisition" width=750 />
-
-
-
-</br>
+<br>
 
 Source: [itsfourland](https://its4land.com/fly-and-create)
 
-</br>
+<br>
 
 ## I. Data acquisition
 The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
-</br>
+<br>
 
 #### 1. UAV fligth
 
 <img src="images/dji-drone.webp"
      alt="DJI drone" width=250/>
-     
+
+![GNSS measruement](images/dji-drone.webp "DJI drone")
+
+
 - Requirements:
-     - iPad with DJI app
-     - SD card
-- For the multispectral camera:
-     - Reference panel
-     - Micro SD card
+     - Camera   
+          - iPad with DJI app
+          - SD card
+     - Multispectral camera:
+          - Reference panel
+          - Micro SD card
      
 Set the fligth route via app and set the fligth parameters. The fligth parameters depend on the target area and objects.
 
@@ -60,16 +62,13 @@ Image overlaps: 90% in fligth direction and 70% orthogonal to the fligth directi
 After landing, a check of the ligth on top of the multispectral camera is needed to eliminate potential failures.
 
 
- <img src="images/ipad.webp"
-     alt="ipad" width=250/>
-</br>
-
-
 
      
-</br>
+![Example of a tablet](images/ipad.webpg "Tablet")
 
-</br>
+<br>   
+<br>
+<br>
 
 #### 2. Measureing Groud Control Points (GCP)
 - Requirements:
@@ -81,12 +80,9 @@ More information can be found [here](https://www.dronedeploy.com/blog/what-are-g
 The GCP can be exported and printed automatically with Agisoft Metashape.
 Theoretically, with sufficient resolution of the GCP Agisoft Metashape should recognize the GCP in the data processing automatically. However, if this is not the case the GCP have to set manually.
 
-THe GCP measurements https://www.otto.de/p/bauknecht-waschmaschine-super-eco-8421-8-kg-1400-u-min-4-jahre-herstellergarantie-plus-kostenlose-altgeraetemitnahme-1202590285/#variationId=1202590977need to be exported as a csv file for every measurement and can be copied on a SD card in the 
+THe GCP measurements to be exported as a csv file for every measurement and can be copied on a SD card in the 
 
 
-<img src="images/gcp.png"
-    alt="Ground Contol Point (GCP) with GNSS instrument" width=250/>
-     
 
 <br>
 
@@ -107,9 +103,6 @@ Let's start with the multispctral data!
 
 > gdfgdf
 > 
-<br>
-
-![GNSS measruement](images/gcp.png "GNSS measurement")
 
 <br>
 
@@ -117,15 +110,13 @@ Let's start with the multispctral data!
 
 <br>
 
-<img src="images/example_uav_imagery.JPG"
-    alt="Images acquired by UAV"/>
-     
+After creating a point cloud in Agisoft it can look like the example below.
 
-<br><br>
+<br>
+
+![Point cloud](images/example_pointcloud.JPG "3D point cloud")
 
 
-<img src="images/example_pointcloud.JPG"
-    alt="An example of a point cloud"/>
 
 
 
