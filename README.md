@@ -6,43 +6,26 @@ A documentation to acquire data via UAV and process data with Structure from Mot
 * The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
 
 
-## Ziel der Übung
-* Eigene Vektorsignaturen gestalten.
-* Eine Karte gestalten und typische Elemente wie Legenden, Nordpfeile und Maßstabsleisten hinzufügen.
-* Eine Karte als PDF-Dokument exportieren.
+## Aim of the workshop
+* Get to know what kind of equipment for different UAV systems
+* Get to know how to plan and perform an UAV fligth
+* Get to know how to use a GNSS receiver
+* Acquire own data with an UAV.
 
 
-## Daten
-Ladet euch [die Daten herunter](exercise_02_data.zip) und speichert sie auf eurem PC.
+## Exercises
+1. Proof if the equipment ist comprehensive
+2. Prepare the UAV for takeoff
+3. Plan the fligth route 
+4. Perform the UAV fligth
+5. Landing UAV and take care of the data
+6. Clean up
 
-* Punkt-Layer: Next-Bike Ausleihpunkte (Quelle: [OpenStreetMap and Contributors](https://www.openstreetmap.org/#map=6/51.330/10.453))
-* Linien: Neckar (Quelle: [OpenStreetMap and Contributors](https://www.openstreetmap.org/#map=6/51.330/10.453))
-* Polygon-Layer (Quelle: [OpenStreetMap and Contributors](https://www.openstreetmap.org/#map=6/51.330/10.453)):
-  * Einzugsgebiete der Next-Bike Stationen (gibt an wie lange man zu Fuß zur nächsten Station benötigt)
-  * Grenze Heidelbergs
-  * Stadtteilgrenzen
-
-
-
-## Aufgaben
-1. Öffnet die oben angegebenen Dateien im GIS.
-2. Wählt für das Punkt-Layer, sowie Linien-Layer passende Signaturen.
-3. Nutzt für die Darstellung der Einzugsgebiete eine abgestufte Farbskala.
-4. Beschriftet die Stadtteile mit ihrem Namen.
-5. Ändert das Koordinatenbezugssystem (Projektion) eurer Ansicht auf ein für Deutschland passenderes.
-6. Erstellt eine neue Druckzusammenstellung. Nutzt das Format A4 (Querformat) für eure Karte.
-7. Stellt einen passenden Maßstab ein (z.B. 1:75000).
-8. Verseht eure Karte mit Nordpfeil und Maßstab (Maßstabsbalken und Numerischen Maßstab).
-9. Fügt abschließend Legende, Kartentitel, Autor und Datenquelle hinzu.
-10. Speichert eure Karte als PDF.
 
 
 ## So (oder ähnlich) sieht's am Ende aus
-![](nextbike_map.png)
-
 
 ![Image UAV flying](images/Image_UAV_rgeo_crop.jpg "UAV monitoring orchards")
-
 
 
 More information [here](https://rgeo.de/en/p/streuobst/)
@@ -50,7 +33,6 @@ More information [here](https://rgeo.de/en/p/streuobst/)
 
 
 <br>
-
 
      
 ![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow")
