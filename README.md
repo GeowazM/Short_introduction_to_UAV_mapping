@@ -1,15 +1,10 @@
 # An introduction to acquire and process data with an Unmanned Aerial Vehicle (UAV)
 A documentation to acquire data via UAV and process data with Structure from Motion (SfM) 
 
-## Acquisition
-
-* The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
-
-
 ## Aim of the workshop
-* Get to know what kind of equipment for different UAV systems
+* Get to know what kind of equipment for different UAV systems is needed
 * Get to know how to plan and perform an UAV fligth
-* Get to know how to use a GNSS receiver
+* Get to know how to use a GNSS receiver to acquire Ground Control Points (GCPs)
 * Acquire own data with an UAV.
 
 
@@ -19,7 +14,8 @@ A documentation to acquire data via UAV and process data with Structure from Mot
 3. Plan the fligth route 
 4. Perform the UAV fligth
 5. Landing UAV and take care of the data
-6. Clean up
+6. Acquire GCPs with the GNSS
+7. Clean up
 
 
 
