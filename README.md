@@ -1,6 +1,44 @@
 # An introduction to acquire and process data with an Unmanned Aerial Vehicle (UAV)
 A documentation to acquire data via UAV and process data with Structure from Motion (SfM) 
 
+## Acquisition
+
+* The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
+
+
+## Ziel der Übung
+* Eigene Vektorsignaturen gestalten.
+* Eine Karte gestalten und typische Elemente wie Legenden, Nordpfeile und Maßstabsleisten hinzufügen.
+* Eine Karte als PDF-Dokument exportieren.
+
+
+## Daten
+Ladet euch [die Daten herunter](exercise_02_data.zip) und speichert sie auf eurem PC.
+
+* Punkt-Layer: Next-Bike Ausleihpunkte (Quelle: [OpenStreetMap and Contributors](https://www.openstreetmap.org/#map=6/51.330/10.453))
+* Linien: Neckar (Quelle: [OpenStreetMap and Contributors](https://www.openstreetmap.org/#map=6/51.330/10.453))
+* Polygon-Layer (Quelle: [OpenStreetMap and Contributors](https://www.openstreetmap.org/#map=6/51.330/10.453)):
+  * Einzugsgebiete der Next-Bike Stationen (gibt an wie lange man zu Fuß zur nächsten Station benötigt)
+  * Grenze Heidelbergs
+  * Stadtteilgrenzen
+
+
+
+## Aufgaben
+1. Öffnet die oben angegebenen Dateien im GIS.
+2. Wählt für das Punkt-Layer, sowie Linien-Layer passende Signaturen.
+3. Nutzt für die Darstellung der Einzugsgebiete eine abgestufte Farbskala.
+4. Beschriftet die Stadtteile mit ihrem Namen.
+5. Ändert das Koordinatenbezugssystem (Projektion) eurer Ansicht auf ein für Deutschland passenderes.
+6. Erstellt eine neue Druckzusammenstellung. Nutzt das Format A4 (Querformat) für eure Karte.
+7. Stellt einen passenden Maßstab ein (z.B. 1:75000).
+8. Verseht eure Karte mit Nordpfeil und Maßstab (Maßstabsbalken und Numerischen Maßstab).
+9. Fügt abschließend Legende, Kartentitel, Autor und Datenquelle hinzu.
+10. Speichert eure Karte als PDF.
+
+
+## So (oder ähnlich) sieht's am Ende aus
+![](nextbike_map.png)
 
 
 ![Image UAV flying](images/Image_UAV_rgeo_crop.jpg "UAV monitoring orchards")
@@ -33,7 +71,6 @@ Source: [itsfourland](https://its4land.com/fly-and-create)
 
 <br>
 
-## I. Data acquisition
 The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
 <br>
 
@@ -41,9 +78,6 @@ The data acquisition includes the UAV fligth itself and the measureing of the gr
 
 <img src="images/dji-drone.webp"
      alt="DJI drone" width=250/>
-
-![GNSS measruement](images/dji-drone.webp "DJI drone")
-
 
 - Requirements:
      - Camera   
@@ -93,7 +127,13 @@ THe GCP measurements to be exported as a csv file for every measurement and can 
 
 --- 
 
-II. Data processing
+## Processing - Structure from Motion (SfM)
+
+* [Presentation about SfM principles](https://www.youtube.com/watch?v=iJTqlb7gsWY)
+* WebODM and Agisoft Metashape
+* Open Source: 
+ - [OpenDroneMap](https://www.opendronemap.org/webodm/)
+ - [VisualSfM](http://ccwu.me/vsfm/index.html)
 
 #### 1. Sort
 
