@@ -1,5 +1,5 @@
 # An introduction to acquire and process data with an Unmanned Aerial Vehicle (UAV)
-A documentation to acquire and process data with an UAV and Agisoft Metashape Professional
+A documentation to acquire data via UAV and process data with Structure from Motion (SfM) 
 
 
 
