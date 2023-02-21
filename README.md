@@ -1,4 +1,4 @@
-# An introduction to acquire and process data with an UAV
+# An introduction to acquire and process data with an Unmanned Aerial Vehicle (UAV)
 A documentation to acquire and process data with an UAV and Agisoft Metashape Professional
 
 
