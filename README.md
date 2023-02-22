@@ -15,7 +15,7 @@ This repository serves as a short guide to
 ---
 
 <p align="center">
-     Some principles about remote sensing can be found: <a href = "https://web.pdx.edu/~nauna/resources/15-sensors.pdf"> here </a>.
+     Some principles about remote sensing can be found <a href = "https://web.pdx.edu/~nauna/resources/15-sensors.pdf"> here</a>.
 </p>
 
 ---
