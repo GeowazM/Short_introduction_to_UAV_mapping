@@ -60,6 +60,13 @@ More information [here](https://rgeo.de/en/p/streuobst/)
 
 <br>
 
+---
+
+#### The principle of a UAV based data acquisition can be seen in the figure 
+![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow")
+
+
+
 
 
 
