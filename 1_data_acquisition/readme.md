@@ -1,3 +1,9 @@
+## 1. Data acquisition (outdoor)
+
+You can use this file as a check list in the field. Some variable depends on the object you want to map (*e.g. fligth parameters, path or the amount of GCPs*).
+
+---
+
 ### a) Build up UAV
 
 - Requirements:
