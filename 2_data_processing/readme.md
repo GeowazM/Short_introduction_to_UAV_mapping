@@ -2,25 +2,16 @@
 
 After a successfully acquisition of the data in the field the data needs to be processed to upgrade the data (UAV imagery (.jpg) and GCPs (.csv)) into geodata (orthomosaic, digital elevation model (.tiff)). There are several software on the market. 
 Two will be used for this workhsop: 
-* Agisoft Metashape (*commercial*)
-* OpenDroneMaps (*open source*)
+* [Agisoft Metashape](https://www.agisoft.com/) (*commercial*)
+* [OpenDroneMap](https://www.opendronemap.org/webodm/) (*open source*)
+
+---
+
+#### The principle behind stereophotogrammetry and Structure-from-Motion (SfM) can be found [here](https://www.youtube.com/watch?v=iJTqlb7gsWY)
 
 ---
 
 
-
-## Data processing
-* Agisoft Photoscan and OpenDroneMap
-
-
-
-## Processing - Structure from Motion (SfM)
-
-* [Presentation about SfM principles](https://www.youtube.com/watch?v=iJTqlb7gsWY)
-* WebODM and Agisoft Metashape
-* Open Source: 
- - [OpenDroneMap](https://www.opendronemap.org/webodm/)
- - [VisualSfM](http://ccwu.me/vsfm/index.html)
 
 #### 1. Sort
 
