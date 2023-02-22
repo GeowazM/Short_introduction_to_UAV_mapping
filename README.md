@@ -61,7 +61,7 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 3. [DJI Mini 2](https://store.dji.com/product/mini-2?gclid=CjwKCAiAl9efBhAkEiwA4ToriiKMlmGKfPlxCbG1N3XQUkcqFHg9xXjMrqLKxbfWwHxQ7Q1gixHzJBoCFAYQAvD_BwE&vid=99411&set_region=US&from=store-nav)
     * 1/2.3” CMOS (RGB) -->
 
-## Overview of available UAVs or this workshop
+## Overview of UAVs and some key fact we use in this workshop 
 
 | Platform | Sensor | Spectral coverage | Max. fligth time | Weigth | [Drone license](https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/) | 
 | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- |
