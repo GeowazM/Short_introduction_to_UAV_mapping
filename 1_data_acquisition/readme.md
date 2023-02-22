@@ -1,6 +1,6 @@
 ## 1. Data acquisition (outdoor)
 
-You can use this file as a check list in the field. Some variable depends on the object you want to map (*e.g. fligth parameters, path or the amount of GCPs*). A good figure about the fligth parameters and their influence on further parameter can be found [here](https://www.researchgate.net/figure/Different-parameters-in-drone-flights-The-outer-box-represents-the-target-variables_fig1_333403653).
+You can use this file as a check list in the field. 
 
 ---
 
@@ -19,6 +19,8 @@ You can use this file as a check list in the field. Some variable depends on the
 ---
 
 ### b) Set fligth parameters
+
+Some variable depends on the object you want to map (*e.g. fligth parameters, path or the amount of GCPs*). A good figure about the fligth parameters and their influence on further parameter can be found [here](https://www.researchgate.net/figure/Different-parameters-in-drone-flights-The-outer-box-represents-the-target-variables_fig1_333403653).
 
 Set the fligth route via app and set the fligth parameters. The fligth parameters depend on the target area and objects.
 
