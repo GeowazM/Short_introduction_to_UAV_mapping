@@ -25,7 +25,7 @@ Set the fligth route via app and set the fligth parameters. The fligth parameter
 
 Some variable depends on the object you want to map (*e.g. fligth parameters, path or the amount of GCPs*). 
 * A good figure about the fligth parameters and their influence on further parameter can be found [here](https://www.researchgate.net/figure/Different-parameters-in-drone-flights-The-outer-box-represents-the-target-variables_fig1_333403653) 
-* Another scientific paper about the role of fligth parameters can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134497/).
+* A comprehensive scientific paper by [Mesas-Carrascosa et al. (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134497/) cover the role of several fligth parameters including good examples
 
 <br>
 
