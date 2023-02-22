@@ -41,6 +41,7 @@ After landing, a check of the ligth on top of the multispectral camera is needed
 
 ### c) Create fligth path
 
+...in progress
 
 <br>
 
@@ -48,6 +49,7 @@ After landing, a check of the ligth on top of the multispectral camera is needed
 
 ### d) Ready for takeoff
 
+...in progress
 
 <br>
 
