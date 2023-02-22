@@ -7,7 +7,9 @@ Two will be used for this workhsop:
 
 ---
 
-#### The principle behind stereophotogrammetry and Structure-from-Motion (SfM) can be found [here](https://www.youtube.com/watch?v=iJTqlb7gsWY)
+<p align="center">
+     The principle behind stereophotogrammetry and Structure-from-Motion (SfM) can be found <a href = "https://www.youtube.com/watch?v=iJTqlb7gsWY"> here </a>.
+</p>
 
 ---
 
