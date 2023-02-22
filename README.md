@@ -2,8 +2,9 @@
 ![Image UAV flying](images/Image_UAV_rgeo_crop_v3.jpg "UAV monitoring orchards")
 
 <p align="center">
-     Source: [rgeo](https://rgeo.de/en/p/streuobst/)
+     <a href = "https://rgeo.de/en/p/streuobst/"> Source: rgeo </a>
 </p>
+
 
 ---
 
@@ -97,15 +98,6 @@ This repository serves as a short guide to acquire data via an UAV and process d
 
 ---
 
-#### Just a nice image
-
-![Image UAV flying](images/Image_UAV_rgeo_crop_v3.jpg "UAV monitoring orchards")
-
-More information [here](https://rgeo.de/en/p/streuobst/)
-
-<br>
-
----
 
 
 
