@@ -34,7 +34,7 @@ Some stuff should be checked before going into the field. E.g. equipment, softwa
         * Trimble Geo7x unit (*or similar*)
         * Antenna (*Zephyr M2 or similar*)
         * Pole
-      * Airborne rover
+      * Airborne rover (*if needed*)
         * EMLID Reach M+ unit (*or similar*)
         * Mounting equipment
 
