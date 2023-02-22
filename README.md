@@ -54,7 +54,7 @@ This repository serves as a short guide to
 | Platform | Sensor | Spectral coverage | Max. fligth time per battery | Weigth | [Drone license](https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/) | 
 | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- |
 | [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series) | [DJI Zenmuse X5S camera](https://www.dji.com/zenmuse-x5s) | RGB | ~24 min | 4 kg | A2 |
-| [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series) | [Micasense RedEdge-M (Legacy) camera](https://support.micasense.com/hc/en-us/articles/360001485134-Getting-Started-With-RedEdge-M-Legacy-) | [R, G, B, NIR, RedEdge](https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/RedEdge-M_bands_User_Manual_spectral_bands.png?token=GHSAT0AAAAAAB6YWBWETQT3GCPAG63BJLESY7V6L2Q) | ~24 min | 4 kg | A2 |
+| [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series) | [Micasense RedEdge-M (Legacy) camera](https://support.micasense.com/hc/en-us/articles/360001485134-Getting-Started-With-RedEdge-M-Legacy-) | R, G, B, NIR, RedEdge | ~24 min | 4 kg | A2 |
 | [DJI Phantom 3 Pro](https://www.dji.com/phantom-3-pro?site=brandsite&from=insite_search) | 4K: 1/2.3” CMOS | RGB | ~23 min | 1.3 kg | A1-A3 (none urban area) |
 | [DJI Mini 2](https://store.dji.com/product/mini-2?gclid=CjwKCAiAl9efBhAkEiwA4ToriiKMlmGKfPlxCbG1N3XQUkcqFHg9xXjMrqLKxbfWwHxQ7Q1gixHzJBoCFAYQAvD_BwE&vid=99411&set_region=US&from=store-nav) | 4K: 1/2.3” CMOS | RGB | ~31 min | 0.249 kg | None |
 
