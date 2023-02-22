@@ -20,20 +20,23 @@ A documentation to acquire data via UAV and process data with Structure from Mot
 ---
 
 <p align="center">
-Principle of a UAV mapping mission
+     Principle of a UAV mapping mission
 </p>
 <!-- ![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow") -->
 
 <p align="center">
-<img src="images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png"
-     alt="Generic workflow" width=650/>
+     <img src="images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png"
+          alt="Generic workflow" width=650/>
 </p>
 
 <p align="center">
-    *Source: [its4land.com](https://its4land.com/fly-and-create/)*
+     <a href = "https://its4land.com/fly-and-create/"> Source: its4land.com </a>
+</p>
+
 
 ---
 
+# I. Fligth planning
 
 ## Our UAV platforms, related sensors, weigth and fligth max. time
 1. [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series)
@@ -67,6 +70,14 @@ Principle of a UAV mapping mission
 
 
 --- 
+
+# II. Data acquisition
+
+---
+
+# III. Processing
+
+---
 
 - License for Agisoft Metashape Professional
 
