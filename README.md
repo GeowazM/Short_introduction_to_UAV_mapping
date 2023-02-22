@@ -77,19 +77,15 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 
 --- 
 
-## Study area
+## Study area *Schwetzinger Hardt*
 
 <p align="center">
-     Schwetzinger Hardt
+     <img src="images/bing_osm_satellite_study_area_final.png"
+          alt="Study area Schwetzinger Hardt" width=750/>
 </p>
 
 <p align="center">
-     <img src="images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png"
-          alt="Generic workflow" width=650/>
-</p>
-
-<p align="center">
-     <a href = "https://its4land.com/fly-and-create/"> Source: its4land.com </a>
+     Source: OpenStreetMap, Bing Satellite
 </p>
 
 
