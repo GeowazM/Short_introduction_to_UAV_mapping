@@ -29,8 +29,8 @@ The data acquisition includes the UAV fligth itself and the measureing of the gr
 Set the fligth route via app and set the fligth parameters. The fligth parameters depend on the target area and objects.
 
 Here are some fligth parameters based on the experiences with monitoring orchards.
-Fligth heigth: 30m or with high trees 35m
-Image overlaps: 90% in fligth direction and 70% orthogonal to the fligth direction.
+* Fligth heigth: 30m or with high trees 35m
+* Image overlaps: 90% in fligth direction and 70% orthogonal to the fligth direction.
 
 After landing, a check of the ligth on top of the multispectral camera is needed to eliminate potential failures.
 
