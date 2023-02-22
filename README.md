@@ -26,7 +26,7 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 ---
 
 <p align="center">
-     Principle of a UAV mapping mission
+     Principle of an UAV mapping mission
 </p>
 <!-- ![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow") -->
 
