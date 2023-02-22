@@ -17,6 +17,24 @@ A documentation to acquire data via UAV and process data with Structure from Mot
 6. Acquire GCPs with the GNSS
 7. Clean up
 
+---
+
+<p align="center">
+Principle of a UAV mapping mission
+</p>
+<!-- ![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow") -->
+
+<p align="center">
+<img src="images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png"
+     alt="Generic workflow" width=650/>
+</p>
+
+<p align="center">
+    *Source: [its4land.com](https://its4land.com/fly-and-create/)*
+
+---
+
+
 ## Our UAV platforms, related sensors, weigth and fligth max. time
 1. [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series)
      * [DJI Zenmuse X5S camera](https://www.dji.com/zenmuse-x5s) (RGB)
@@ -26,7 +44,7 @@ A documentation to acquire data via UAV and process data with Structure from Mot
      
 <!-- ![RedEdge-M spectral bands](images/RedEdge-M_bands_User_Manual.png "MicaSense RedEdge-M spectral resolution") -->
 <!-- <img src="images/RedEdge-M_bands_User_Manual_spectral_bands.png"
-     alt="DMicaSense RedEdge-M spectral resolution" width=250/> -->
+     alt="MicaSense RedEdge-M spectral resolution" width=250/> -->
  
   
 2. [DJI Phantom 3 Professional](https://www.dji.com/phantom-3-pro?site=brandsite&from=insite_search)
@@ -61,10 +79,6 @@ More information [here](https://rgeo.de/en/p/streuobst/)
 <br>
 
 ---
-
-#### The principle of a UAV based data acquisition can be seen in the figure 
-![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow")
-
 
 
 
