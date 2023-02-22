@@ -8,9 +8,11 @@
 
 ---
 
-This repository serves as a short guide to acquire data via an UAV and process data with Structure-from-Motion (SfM). 
+This repository serves as a short guide to
+* acquire data with an UAV and 
+* process data via Structure-from-Motion (SfM) 
 
-##### Some basics about remote sensing can be found [here](https://web.pdx.edu/~nauna/resources/15-sensors.pdf).
+##### Some principles about remote sensing can be found [here](https://web.pdx.edu/~nauna/resources/15-sensors.pdf).
 
 ---
 
@@ -70,7 +72,7 @@ This repository serves as a short guide to acquire data via an UAV and process d
 
 <br>
 
-## Overview of UAVs and some key fact we use in this workshop 
+## Overview: *Available UAV models and some key fact* 
 
 | Platform | Sensor | Spectral coverage | Max. fligth time | Weigth | [Drone license](https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/) | 
 | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- |
@@ -84,7 +86,7 @@ This repository serves as a short guide to acquire data via an UAV and process d
 
 --- 
 
-## Study area *Schwetzinger Hardt*
+## Study area: *Schwetzinger Hardt*
 
 <p align="center">
      <img src="images/bing_osm_satellite_study_area_final.png"
