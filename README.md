@@ -22,15 +22,15 @@ A documentation to acquire data via UAV and process data with Structure from Mot
      * [DJI Zenmuse X5S camera](https://www.dji.com/zenmuse-x5s) (RGB)
      * [Micasense RedEdge-M (Legacy) camera](https://support.micasense.com/hc/en-us/articles/360001485134-Getting-Started-With-RedEdge-M-Legacy-) (4 multispectral bands including NIR)
      
-![RedEdge-M spectral bands](images/RedEdge-M_bands_User_Manualpng)
-     
+<!-- ![RedEdge-M spectral bands](images/RedEdge-M_bands_User_Manual.png "MicaSense RedEdge-M spectral resolution") -->
+<!-- <img src="images/RedEdge-M_bands_User_Manual.png"
+     alt="DMicaSense RedEdge-M spectral resolution" width=250/> -->
+ 
   
 2. [DJI Phantom 3 Professional](https://www.dji.com/phantom-3-pro?site=brandsite&from=insite_search)
 3. [DJI Mini 2](https://store.dji.com/product/mini-2?gclid=CjwKCAiAl9efBhAkEiwA4ToriiKMlmGKfPlxCbG1N3XQUkcqFHg9xXjMrqLKxbfWwHxQ7Q1gixHzJBoCFAYQAvD_BwE&vid=99411&set_region=US&from=store-nav)
 
 
-
-![RedEdge-M spectral bands](RedEdge-M_bands_User_Manual.pdf.png)
 
 ### Sensors
 
