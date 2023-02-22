@@ -12,7 +12,11 @@ This repository serves as a short guide to
 * acquire data with an UAV and 
 * process data via Structure-from-Motion (SfM) 
 
-##### Some principles about remote sensing can be found [here](https://web.pdx.edu/~nauna/resources/15-sensors.pdf).
+---
+
+<p align="center">
+     Some principles about remote sensing can be found: <a href = "https://web.pdx.edu/~nauna/resources/15-sensors.pdf"> here </a>.
+</p>
 
 ---
 
