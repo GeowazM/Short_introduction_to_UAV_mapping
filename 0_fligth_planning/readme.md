@@ -47,6 +47,7 @@ Some stuff should be checked before going into the field. E.g. equipment, softwa
       * *Continent* 
       * *Country* 
       * *UAV model* 
+    * Proof your study area
 
 <br>
 
