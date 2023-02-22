@@ -16,6 +16,7 @@ Some stuff should be checked before going into the field. E.g. equipment, softwa
 
   * **Multispectral camera** (*if needed*)
     *  MicaSense RedEdge-M (Legacy) incl. GPS and radiation sensor (*or similar*)
+    *  [MicaSense reference panel](https://support.micasense.com/hc/en-us/articles/115000765514-Use-of-Calibrated-Reflectance-Panels-For-MicaSense-Data)
     *  Micro SD card (*max. 32GB*)
 
 <br>
