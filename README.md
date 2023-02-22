@@ -87,9 +87,10 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 
 # III. Processing
 
----
 
 - License for Agisoft Metashape Professional
+
+---
 
 #### Just a nice image
 
