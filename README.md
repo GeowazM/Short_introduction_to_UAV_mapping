@@ -45,7 +45,7 @@ This repository serves as a short guide to
 <br>
 
 ## Exercises for fligth planning and data acquisition
-For more details use the directories *0_flight_planning* and *1_data_acquisition*
+For more details use the directories *0_flight_planning* and *1_data_acquisition*.
 1. Proof if the equipment ist comprehensive
 2. Prepare the UAV for takeoff
 3. Plan the fligth route 
@@ -87,7 +87,7 @@ For more details use the directories *0_flight_planning* and *1_data_acquisition
 <br>
 
 ## Exercises for data processing
-For more details use the directory *3_data_processing*
+For more details use the directory *3_data_processing*.
 1. dfs
 2. fsd
 3. fsd
