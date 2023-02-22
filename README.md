@@ -44,25 +44,25 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 
 # I. Fligth planning
 
+<!--
 ## Our UAV platforms, related sensors, weigth and fligth max. time
 1. [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series)
      * [DJI Zenmuse X5S camera](https://www.dji.com/zenmuse-x5s) (RGB)
-     * [Micasense RedEdge-M (Legacy) camera](https://support.micasense.com/hc/en-us/articles/360001485134-Getting-Started-With-RedEdge-M-Legacy-) ([R, G, B, NIR, RedEdge](https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/RedEdge-M_bands_User_Manual_spectral_bands.png?token=GHSAT0AAAAAAB6YWBWETQT3GCPAG63BJLESY7V6L2Q))
+     * [Micasense RedEdge-M (Legacy) camera](https://support.micasense.com/hc/en-us/articles/360001485134-Getting-Started-With-RedEdge-M-Legacy-) ([R, G, B, NIR, RedEdge](https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/RedEdge-M_bands_User_Manual_spectral_bands.png?token=GHSAT0AAAAAAB6YWBWETQT3GCPAG63BJLESY7V6L2Q)) -->
 
      
 <!-- ![RedEdge-M spectral bands](images/RedEdge-M_bands_User_Manual.png "MicaSense RedEdge-M spectral resolution") -->
 <!-- <img src="images/RedEdge-M_bands_User_Manual_spectral_bands.png"
      alt="MicaSense RedEdge-M spectral resolution" width=250/> -->
  
-  
+<!--
 2. [DJI Phantom 3 Professional](https://www.dji.com/phantom-3-pro?site=brandsite&from=insite_search)
     * 1/2.3” CMOS (RGB)
 
 3. [DJI Mini 2](https://store.dji.com/product/mini-2?gclid=CjwKCAiAl9efBhAkEiwA4ToriiKMlmGKfPlxCbG1N3XQUkcqFHg9xXjMrqLKxbfWwHxQ7Q1gixHzJBoCFAYQAvD_BwE&vid=99411&set_region=US&from=store-nav)
-    * 1/2.3” CMOS (RGB)
+    * 1/2.3” CMOS (RGB) -->
 
-
-
+## Overview of available UAVs or this workshop
 
 | Platform | Sensor | Spectral coverage | Max. fligth time | Weigth | [Drone license](https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/) | 
 | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- |
