@@ -57,6 +57,6 @@ THe GCP measurements to be exported as a csv file for every measurement and can 
 <br>
 
 
-![Kiku](images/gcp.png)
+![Kiku](https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/gcp.png?token=GHSAT0AAAAAAB6YWBWEXTC467URTELYZOHCY7WFP3A)
 
 --- 
