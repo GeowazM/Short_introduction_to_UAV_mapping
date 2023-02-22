@@ -23,7 +23,7 @@ This repository serves as a short guide to
 * Acquire own data with an UAV.
 
 
-## Exercises
+## Exercises for fligth planning and data acquisition
 1. Proof if the equipment ist comprehensive
 2. Prepare the UAV for takeoff
 3. Plan the fligth route 
