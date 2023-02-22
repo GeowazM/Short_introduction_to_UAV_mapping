@@ -20,6 +20,8 @@ This repository serves as a short guide to
 
 ---
 
+<br>
+
 ## Aim of the workshop
 * Get to know what kind of equipment for different UAV systems is needed
 * Get to know how to plan and perform an UAV fligth
