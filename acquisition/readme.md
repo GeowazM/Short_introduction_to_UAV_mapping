@@ -4,11 +4,6 @@
 1. UAV fligth itself and 
 2. the acquisition of the ground control points (GCP).
 
----
-
-#### The principle of a UAV based data acquisition can be seen in the figure 
-![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow")
-
 
 <br>
 
