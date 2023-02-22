@@ -42,8 +42,10 @@ This repository serves as a short guide to
 
 ---
 
+<br>
 
 ## Exercises for fligth planning and data acquisition
+* For more details use the directories *0_flight_planning* and *1_data_acquisition*
 1. Proof if the equipment ist comprehensive
 2. Prepare the UAV for takeoff
 3. Plan the fligth route 
@@ -65,10 +67,9 @@ This repository serves as a short guide to
 | [DJI Phantom 3 Pro](https://www.dji.com/phantom-3-pro?site=brandsite&from=insite_search) | 4K: 1/2.3” CMOS | RGB | ~23 min | 1.3 kg | A1-A3 (none urban area) |
 | [DJI Mini 2](https://store.dji.com/product/mini-2?gclid=CjwKCAiAl9efBhAkEiwA4ToriiKMlmGKfPlxCbG1N3XQUkcqFHg9xXjMrqLKxbfWwHxQ7Q1gixHzJBoCFAYQAvD_BwE&vid=99411&set_region=US&from=store-nav) | 4K: 1/2.3” CMOS | RGB | ~31 min | 0.249 kg | None |
 
+--- 
 
 <br>
-
---- 
 
 ## Study area: *Schwetzinger Hardt*
 
@@ -81,11 +82,12 @@ This repository serves as a short guide to
      Source: OpenStreetMap, Bing Satellite
 </p>
 
-
 ---
 
+<br>
 
 ## Exercises for data processing
+For more details use the directory *3_data_processing*
 1. dfs
 2. fsd
 3. fsd
