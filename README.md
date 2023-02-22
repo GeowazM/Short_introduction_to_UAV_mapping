@@ -20,7 +20,7 @@ A documentation to acquire data via UAV and process data with Structure from Mot
 ## Our UAV platforms, related sensors, weigth and fligth max. time
 1. [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series)
      * [DJI Zenmuse X5S camera](https://www.dji.com/zenmuse-x5s) (RGB)
-     * [Micasense RedEdge-M (Legacy) camera](https://support.micasense.com/hc/en-us/articles/360001485134-Getting-Started-With-RedEdge-M-Legacy-) (R, G, B, NIR, RedEdge)
+     * [Micasense RedEdge-M (Legacy) camera](https://support.micasense.com/hc/en-us/articles/360001485134-Getting-Started-With-RedEdge-M-Legacy-) ([R, G, B, NIR, RedEdge](https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/RedEdge-M_bands_User_Manual_spectral_bands.png?token=GHSAT0AAAAAAB6YWBWETQT3GCPAG63BJLESY7V6L2Q))
      * 24 minutes
      * 4 kg
      
