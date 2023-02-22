@@ -42,29 +42,25 @@ A documentation to acquire data via UAV and process data with Structure from Mot
 
 
 
-
-
 ### Additional Gadgets
 - Gimble GNSS receiver
 - EMLID GNSS system
 - Mobile RTK system for UAVs (P3 Pro)
 
 
-
+--- 
 
 - License for Agisoft Metashape Professional
 
-## Just a nice image
+#### Just a nice image
 
 ![Image UAV flying](images/Image_UAV_rgeo_crop.jpg "UAV monitoring orchards")
-
 
 More information [here](https://rgeo.de/en/p/streuobst/)
 
 <br>
 
 
---- 
 
 
 
