@@ -33,7 +33,7 @@ After landing, a check of the ligth on top of the multispectral camera is needed
 
 ---
 
-### e) Measureing Groud Control Points (GCP)
+### e) Measure Groud Control Points (GCP)
 
 The GCP are important to georeference the processed data precisly. 
 More information can be found [here](https://www.dronedeploy.com/blog/what-are-ground-control-points-gcps/).
