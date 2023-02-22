@@ -42,7 +42,6 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 
 ---
 
-# I. Fligth planning
 
 <!--
 ## Our UAV platforms, related sensors, weigth and fligth max. time
@@ -71,12 +70,6 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 | [DJI Phantom 3 Pro](https://www.dji.com/phantom-3-pro?site=brandsite&from=insite_search) | 4K: 1/2.3” CMOS | RGB | ~23 min | 1.3 kg | A1-A3 (none urban area) |
 | [DJI Mini 2](https://store.dji.com/product/mini-2?gclid=CjwKCAiAl9efBhAkEiwA4ToriiKMlmGKfPlxCbG1N3XQUkcqFHg9xXjMrqLKxbfWwHxQ7Q1gixHzJBoCFAYQAvD_BwE&vid=99411&set_region=US&from=store-nav) | 4K: 1/2.3” CMOS | RGB | ~31 min | 0.249 kg | None |
 
-
-
-### Additional Gadgets
-- Gimble GNSS receiver
-- EMLID GNSS system
-- Mobile RTK system for UAVs (P3 Pro)
 
 
 --- 
