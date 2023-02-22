@@ -2,6 +2,19 @@
 
 * The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
 
+     
+![Generic workflow](images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png "Generic workflow")
+
+
+<br>
+
+Source: [itsfourland](https://its4land.com/fly-and-create)
+
+<br>
+
+The data acquisition includes the UAV fligth itself and the measureing of the ground control points (GCP).
+<br>
+
 
 
 #### 1. UAV fligth
