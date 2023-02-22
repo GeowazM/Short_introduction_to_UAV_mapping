@@ -1,6 +1,7 @@
 ## 2. Data processing (indoor)
 
-After a successfully acquisition of the data in the field the data needs to be processed to upgrade the data (UAV imagery (.jpg) and GCPs (.csv)) into geodata (orthomosaic (.tiff)). There are several software on the market. Two will be used for this workhsop. 
+After a successfully acquisition of the data in the field the data needs to be processed to upgrade the data (UAV imagery (.jpg) and GCPs (.csv)) into geodata (orthomosaic (.tiff)). There are several software on the market. 
+Two will be used for this workhsop: 
 * Agisoft Metashape (*commercial*)
 * OpenDroneMaps (*open source*)
 
