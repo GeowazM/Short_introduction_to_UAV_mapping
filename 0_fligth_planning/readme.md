@@ -55,6 +55,8 @@ Some stuff should be checked before going into the field. E.g. equipment, softwa
 * If fligth permission is necessary contact
   * Municipality or
   * Federal province
+  
+<br>
 
 ---
 
@@ -68,6 +70,8 @@ Some stuff should be checked before going into the field. E.g. equipment, softwa
 * Useful for pilots
   * [DWD products for UAV pilots](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/luftsportberichte_node.html) 
   * UAV weather apps [(e.g. UAV-Vorhersage für Drohnen)](https://play.google.com/store/apps/details?id=com.uavforecast&hl=de&gl=US)
+
+<br>
 
 
 ---
