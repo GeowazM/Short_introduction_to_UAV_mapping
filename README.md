@@ -1,5 +1,7 @@
 # An introduction to acquire and process data with an Unmanned Aerial Vehicle (UAV)
-A documentation to acquire data via UAV and process data with Structure from Motion (SfM) 
+A documentation to acquire data via UAV and process data with Structure-from-Motion (SfM). 
+
+##### Some basics about remote sensing can be found [here](https://web.pdx.edu/~nauna/resources/15-sensors.pdf).
 
 ## Aim of the workshop
 * Get to know what kind of equipment for different UAV systems is needed
