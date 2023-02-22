@@ -2,7 +2,7 @@
 ![Image UAV flying](images/Image_UAV_rgeo_crop_v3.jpg "UAV monitoring orchards")
 
 <p align="center">
-     <a href = "https://rgeo.de/en/p/streuobst/"> Source: rgeo </a>
+     Source: <a href = "https://rgeo.de/en/p/streuobst/"> rgeo </a>
 </p>
 
 
@@ -45,7 +45,7 @@ This repository serves as a short guide to
 </p>
 
 <p align="center">
-     <a href = "https://its4land.com/fly-and-create/"> Source: its4land.com </a>
+     Source: <a href = "https://its4land.com/fly-and-create/"> its4land.com </a>
 </p>
 
 
