@@ -8,6 +8,7 @@
           - Reference panel
           - Micro SD card
 
+---
 
 ### b) Set fligth parameters
 
@@ -19,32 +20,18 @@ Here are some fligth parameters based on the experiences with monitoring orchard
 
 After landing, a check of the ligth on top of the multispectral camera is needed to eliminate potential failures.
 
+---
 
 ### c) Create fligth path
 
 
+---
 
 ### d) Ready for takeoff
 
 
 
-
-
-Set the fligth route via app and set the fligth parameters. The fligth parameters depend on the target area and objects.
-
-Here are some fligth parameters based on the experiences with monitoring orchards.
-* Fligth heigth: 30m or with high trees 35m
-* Image overlaps: 90% in fligth direction and 70% orthogonal to the fligth direction.
-
-After landing, a check of the ligth on top of the multispectral camera is needed to eliminate potential failures.
-
-
-     
-![Example of a tablet](images/ipad.webpg "Tablet")
-
-<br>   
-<br>
-<br>
+---
 
 ### e) Measureing Groud Control Points (GCP)
 
@@ -60,7 +47,7 @@ THe GCP measurements to be exported as a csv file for every measurement and can 
 
 <br>
 
-![GNSS measruement](images/gcp.png "GNSS measurement")
+![GNSS measruement]("images/gcp.png "GNSS measurement")
 
      
 <br>
