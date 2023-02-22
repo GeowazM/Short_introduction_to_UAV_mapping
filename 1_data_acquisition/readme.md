@@ -69,7 +69,7 @@ THe GCP measurements to be exported as a csv file for every measurement and can 
 
 
 <p align="center">
-     <img src="https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/gcp.png?token=GHSAT0AAAAAAB6YWBWEXTC467URTELYZOHCY7WFP3A"
+     <img src="https://github.com/GeowazM/Short_introduction_to_UAV_mapping/blob/main/images/gcp.png?raw=true"
           alt="GNSS rover with tripod (Trimble Geo7x)" width=300/>
 </p>
 
