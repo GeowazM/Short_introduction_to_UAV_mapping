@@ -47,16 +47,11 @@ THe GCP measurements to be exported as a csv file for every measurement and can 
 
 <br>
 
-![GNSS measruement]("images/gcp.png "GNSS measurement")
 
 <p align="center">
-     <img src="images/gcp.png"
-          alt="GNSS base station" width=650/>
+     <img src="https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/gcp.png?token=GHSAT0AAAAAAB6YWBWEXTC467URTELYZOHCY7WFP3A"
+          alt="GNSS rover with tripod (Trimble Geo7x)" width=300/>
 </p>
-     
-<br>
 
-
-![Kiku](https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/gcp.png?token=GHSAT0AAAAAAB6YWBWEXTC467URTELYZOHCY7WFP3A)
 
 --- 
