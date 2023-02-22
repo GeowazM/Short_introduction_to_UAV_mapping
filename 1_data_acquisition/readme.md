@@ -49,6 +49,10 @@ THe GCP measurements to be exported as a csv file for every measurement and can 
 
 ![GNSS measruement]("images/gcp.png "GNSS measurement")
 
+<p align="center">
+     <img src="images/igcp.png"
+          alt="GNSS base station" width=650/>
+</p>
      
 <br>
 
