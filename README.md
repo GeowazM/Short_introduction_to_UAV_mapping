@@ -39,21 +39,6 @@ This repository serves as a short guide to
      Source: <a href = "https://its4land.com/fly-and-create/"> its4land.com </a>
 </p>
 
-
----
-
-<br>
-
-## Exercises for fligth planning and data acquisition
-For more details use the directories *0_flight_planning* and *1_data_acquisition*.
-1. Proof if the equipment ist comprehensive
-2. Prepare the UAV for takeoff
-3. Plan the fligth route 
-4. Perform the UAV fligth
-5. Landing UAV and take care of the data
-6. Acquire GCPs with the GNSS
-7. Clean up
-
 ---
 
 <br>
@@ -81,6 +66,22 @@ For more details use the directories *0_flight_planning* and *1_data_acquisition
 <p align="center">
      Source: OpenStreetMap, Bing Satellite
 </p>
+
+---
+
+
+<br>
+
+## Exercises for fligth planning and data acquisition
+For more details use the directories *0_flight_planning* and *1_data_acquisition*.
+1. Proof if the equipment ist comprehensive
+2. Prepare the UAV for takeoff
+3. Plan the fligth route 
+4. Perform the UAV fligth
+5. Landing UAV and take care of the data
+6. Acquire GCPs with the GNSS
+7. Clean up
+
 
 ---
 
