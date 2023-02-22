@@ -1,4 +1,4 @@
-
+### a) Build up UAV
 
 - Requirements:
      - Camera   
@@ -7,7 +7,29 @@
      - Multispectral camera:
           - Reference panel
           - Micro SD card
-     
+
+
+### b) Set fligth parameters
+
+Set the fligth route via app and set the fligth parameters. The fligth parameters depend on the target area and objects.
+
+Here are some fligth parameters based on the experiences with monitoring orchards.
+* Fligth heigth: 30m or with high trees 35m
+* Image overlaps: 90% in fligth direction and 70% orthogonal to the fligth direction.
+
+After landing, a check of the ligth on top of the multispectral camera is needed to eliminate potential failures.
+
+
+### c) Create fligth path
+
+
+
+### d) Ready for takeoff
+
+
+
+
+
 Set the fligth route via app and set the fligth parameters. The fligth parameters depend on the target area and objects.
 
 Here are some fligth parameters based on the experiences with monitoring orchards.
@@ -24,9 +46,7 @@ After landing, a check of the ligth on top of the multispectral camera is needed
 <br>
 <br>
 
-#### 2. Measureing Groud Control Points (GCP)
-- Requirements:
-     - [TrimbleGeo7xGNSS](https://geospatial.trimble.com/products-and-solutions/geo-7x-gnss)
+### e) Measureing Groud Control Points (GCP)
 
 The GCP are important to georeference the processed data precisly. 
 More information can be found [here](https://www.dronedeploy.com/blog/what-are-ground-control-points-gcps/).
