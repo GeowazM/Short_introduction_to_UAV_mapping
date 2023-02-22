@@ -1,7 +1,13 @@
 # An introduction to acquire and process data with an Unmanned Aerial Vehicle (UAV)
-A documentation to acquire data via UAV and process data with Structure-from-Motion (SfM). 
+![Image UAV flying](images/Image_UAV_rgeo_crop_v3.jpg "UAV monitoring orchards")
+
+<p align="center">
+     Source: [rgeo](https://rgeo.de/en/p/streuobst/)
+</p>
 
 ---
+
+This repository serves as a short guide to acquire data via an UAV and process data with Structure-from-Motion (SfM). 
 
 ##### Some basics about remote sensing can be found [here](https://web.pdx.edu/~nauna/resources/15-sensors.pdf).
 
@@ -93,7 +99,7 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 
 #### Just a nice image
 
-![Image UAV flying](images/Image_UAV_rgeo_crop_v2.jpg "UAV monitoring orchards")
+![Image UAV flying](images/Image_UAV_rgeo_crop_v3.jpg "UAV monitoring orchards")
 
 More information [here](https://rgeo.de/en/p/streuobst/)
 
