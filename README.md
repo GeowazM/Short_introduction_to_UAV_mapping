@@ -95,9 +95,9 @@ For more details use the directories [*0_flight_planning*](0_fligth_planning/rea
 
 ## Exercises for data processing
 For more details use the directory [*3_data_processing*](3_data_processing/readme.md).
-1. dfs
-2. fsd
-3. fsd
+1. ...in progress
+2. ...in progress
+3. ...in progress
 
 <br>
 
