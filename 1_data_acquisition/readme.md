@@ -8,6 +8,8 @@
           - Reference panel
           - Micro SD card
 
+<br>
+
 ---
 
 ### b) Set fligth parameters
@@ -20,16 +22,21 @@ Here are some fligth parameters based on the experiences with monitoring orchard
 
 After landing, a check of the ligth on top of the multispectral camera is needed to eliminate potential failures.
 
+<br>
+
 ---
 
 ### c) Create fligth path
 
+
+<br>
 
 ---
 
 ### d) Ready for takeoff
 
 
+<br>
 
 ---
 
@@ -52,6 +59,12 @@ THe GCP measurements to be exported as a csv file for every measurement and can 
      <img src="https://raw.githubusercontent.com/GeowazM/Introduction_UAV/main/images/gcp.png?token=GHSAT0AAAAAAB6YWBWEXTC467URTELYZOHCY7WFP3A"
           alt="GNSS rover with tripod (Trimble Geo7x)" width=300/>
 </p>
+
+<p align="center">
+     Source: <a href = "https://rgeo.de/en/p/streuobst/"> rgeo </a>
+</p>
+
+<br>
 
 
 --- 
