@@ -77,6 +77,23 @@ A documentation to acquire data via UAV and process data with Structure-from-Mot
 
 --- 
 
+## Study area
+
+<p align="center">
+     Schwetzinger Hardt
+</p>
+
+<p align="center">
+     <img src="images/its4land_Ggneric-workflow-for-UAV-based-data-acquisition.png"
+          alt="Generic workflow" width=650/>
+</p>
+
+<p align="center">
+     <a href = "https://its4land.com/fly-and-create/"> Source: its4land.com </a>
+</p>
+
+
+---
 
 #### Just a nice image
 
