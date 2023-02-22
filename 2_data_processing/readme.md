@@ -19,9 +19,9 @@ Two will be used for this workhsop:
 
 The acquiered data can be sorted by date and sensor. The micasense folder need an extra directory for the reference panels.
 
-Let's start with the multispctral data!
+Let's start with the multispectral data!
 
-> gdfgdf
+> ...in progress
 > 
 
 <br>
@@ -35,4 +35,9 @@ After creating a point cloud in Agisoft it can look like the example below.
 <br>
 
 ![Point cloud](images/example_pointcloud.JPG "3D point cloud")
+
+
+...in progress
+
+---
 
