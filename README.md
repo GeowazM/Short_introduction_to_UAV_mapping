@@ -83,7 +83,7 @@ This repository serves as a short guide to
 
 ## Exercises for flight planning and data acquisition
 For more details use the directories [*0_flight_planning*](0_fligth_planning/readme.md) and [*1_data_acquisition*](1_data_acquisition/readme.md).
-1. Proof if the equipment ist comprehensive
+1. Check if the equipment ist comprehensive
 2. Prepare the UAV for takeoff
 3. Plan the fligth route 
 4. Perform the UAV fligth
