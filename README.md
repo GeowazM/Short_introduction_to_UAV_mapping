@@ -24,7 +24,7 @@ This repository serves as a short guide to
 
 ## Aim of the workshop (*01.03.2023*)
 * Get to know what kind of equipment for different UAV systems is needed
-* Get to know how to plan and perform an UAV flight
+* Get to know how to plan and perform a UAV flight
 * Get to know how to use a GNSS receiver to acquire Ground Control Points (GCPs)
 * Acquire own data with an UAV.
 
