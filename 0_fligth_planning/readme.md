@@ -53,8 +53,9 @@ Some stuff should be checked before going into the field. E.g. equipment, softwa
 <br>
 
 * If fligth permission is necessary contact
+  * Owner,
   * Municipality or
-  * Federal province
+  * Federal province 
   
 <br>
 
@@ -63,7 +64,7 @@ Some stuff should be checked before going into the field. E.g. equipment, softwa
 ### c) Environmental requirements
 * Weather
   * Precipitation
-  * Wind speed
+  * Wind speed (compare with max. wind speed of your UAV)
 
 <br>
 
