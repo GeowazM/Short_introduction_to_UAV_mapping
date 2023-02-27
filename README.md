@@ -15,7 +15,10 @@ This repository serves as a short guide to
 ---
 
 <p align="center">
-     Some principles about remote sensing can be found <a href = "https://web.pdx.edu/~nauna/resources/15-sensors.pdf"> here</a>.
+     An introduction to remote sensing can be found at <a href = "https://eo-college.org/courses/landinfocus/"> EO College</a> (Login is needed). 
+</p>
+<p align="center">
+     Alternatevly see this <a href = "https://web.pdx.edu/~nauna/resources/15-sensors.pdf"> link</a>.
 </p>
 
 ---
