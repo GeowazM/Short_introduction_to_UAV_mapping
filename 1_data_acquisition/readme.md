@@ -4,7 +4,7 @@ You can use this file as a check list in the field.
 
 ---
 
-### a) Build up UAV
+### a) Assemble UAV
 
 - Requirements:
      - Camera   
@@ -18,14 +18,14 @@ You can use this file as a check list in the field.
 
 ---
 
-### b) Set fligth parameters
+### b) Set flight parameters
 
-Set the fligth route via app and set the fligth parameters. The fligth parameters depend on the target area and objects.
+Set the flight route via app and set the flight parameters. The flight parameters depend on the target area and objects.
 
 
 Some variable depends on the object you want to map (*e.g. fligth parameters, path or the amount of GCPs*). 
-* A good figure about the fligth parameters and their influence on further parameter can be found [here](https://www.researchgate.net/figure/Different-parameters-in-drone-flights-The-outer-box-represents-the-target-variables_fig1_333403653) 
-* A comprehensive scientific paper by [Mesas-Carrascosa et al. (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134497/) cover the role of several fligth parameters including good examples
+* A good figure about the flight parameters and their influence on further parameter can be found [here](https://www.researchgate.net/figure/Different-parameters-in-drone-flights-The-outer-box-represents-the-target-variables_fig1_333403653) 
+* A comprehensive scientific paper by [Mesas-Carrascosa et al. (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134497/) cover the role of several flight parameters including good examples
 
 <br>
 
@@ -39,7 +39,7 @@ After landing, a check of the ligth on top of the multispectral camera is needed
 
 ---
 
-### c) Create fligth path
+### c) Create flight path
 
 ...in progress
 
