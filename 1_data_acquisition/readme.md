@@ -58,9 +58,10 @@ After landing, a check of the ligth on top of the multispectral camera is needed
 ### e) Measure Groud Control Points (GCP)
 
 The GCP are important to georeference the processed data precisly. 
-More information can be found [here](https://www.dronedeploy.com/blog/what-are-ground-control-points-gcps/).
-For another good explanation have a look [here](https://www.groundcontrolpoints.com/mapping-contour-lines-using-gcps).
-Some background information about cartography principles can be found [here](https://www.groundcontrolpoints.com/).
+For more information have a look into these sources:
+* [DroneDeploy](https://www.dronedeploy.com/blog/what-are-ground-control-points-gcps/).
+* [GCP](https://www.groundcontrolpoints.com/mapping-contour-lines-using-gcps).
+* [Some principles about carthography](https://www.groundcontrolpoints.com/).
 
 
 Theoretically, with sufficient geometric resolution of the imagery Agisoft Metashape should recognize the GCP in an imagery analysis process automatically. However, if this is not the case the GCP have to set manually.
