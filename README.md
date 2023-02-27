@@ -1,4 +1,4 @@
-# An introduction to acquire and process data with an Unmanned Aerial Vehicle (UAV)
+# An introduction to acquire and process data with a Unmanned Aerial Vehicle (UAV)
 ![Image UAV flying](images/Image_UAV_rgeo_crop_v3.jpg "UAV monitoring orchards")
 
 <p align="center">
@@ -9,7 +9,7 @@
 ---
 
 This repository serves as a short guide to
-* acquire data with an UAV and 
+* acquire data with a UAV and 
 * process data via Structure-from-Motion (SfM) 
 
 ---
@@ -24,7 +24,7 @@ This repository serves as a short guide to
 
 ## Aim of the workshop (*01.03.2023*)
 * Get to know what kind of equipment for different UAV systems is needed
-* Get to know how to plan and perform an UAV fligth
+* Get to know how to plan and perform an UAV flight
 * Get to know how to use a GNSS receiver to acquire Ground Control Points (GCPs)
 * Acquire own data with an UAV.
 
@@ -51,7 +51,7 @@ This repository serves as a short guide to
 
 ## Overview: *Available UAV models and some key fact* 
 
-| Platform | Sensor | Spectral coverage | Max. fligth time per battery | Weigth | [Drone license](https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/) | 
+| Platform | Sensor | Spectral coverage | Max. flight time per battery | Weigth | [Drone license](https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/) | 
 | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- |
 | [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series) | [DJI Zenmuse X5S camera](https://www.dji.com/zenmuse-x5s) | RGB | ~24 min | 4 kg | A2 |
 | [DJI Matrice 200 Series](https://www.dji.com/matrice-200-series) | [Micasense RedEdge-M (Legacy) camera](https://support.micasense.com/hc/en-us/articles/360001485134-Getting-Started-With-RedEdge-M-Legacy-) | R, G, B, NIR, RedEdge | ~24 min | 4 kg | A2 |
@@ -78,7 +78,7 @@ This repository serves as a short guide to
 
 <br>
 
-## Exercises for fligth planning and data acquisition
+## Exercises for flight planning and data acquisition
 For more details use the directories [*0_flight_planning*](0_fligth_planning/readme.md) and [*1_data_acquisition*](1_data_acquisition/readme.md).
 1. Proof if the equipment ist comprehensive
 2. Prepare the UAV for takeoff
