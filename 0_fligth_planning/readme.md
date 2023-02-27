@@ -37,6 +37,7 @@ Some stuff should be checked before going into the field. E.g. equipment, softwa
       * Airborne rover (*if needed*)
         * EMLID Reach M+ unit (*or similar*)
         * Mounting equipment
+    * GCP targets
 
 <br>
 
