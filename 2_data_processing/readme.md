@@ -34,7 +34,7 @@ After creating a point cloud in Agisoft it can look like the example below.
 
 <br>
 
-![Point cloud](images/example_pointcloud.JPG "3D point cloud")
+![Point cloud](https://github.com/GeowazM/Short_introduction_to_UAV_mapping/blob/main/images/agisoft_workflow.png?raw=true)
 
 
 ...in progress
