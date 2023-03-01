@@ -34,7 +34,7 @@ After creating a point cloud in Agisoft it can look like the example below.
 
 <br>
 
-![Point cloud](https://github.com/GeowazM/Short_introduction_to_UAV_mapping/blob/main/images/agisoft_workflow.png?raw=true)
+![Point cloud](ht)
 
 
 ...in progress
@@ -47,7 +47,7 @@ After creating a point cloud in Agisoft it can look like the example below.
 * [Agisoft Metashape Guide](https://devstudio.dartmouth.edu/wordpress/metashape-guide/)
 * [Agisoft manual](https://www.agisoft.com/pdf/metashape-pro_1_6_en.pdf)
 
-![Agisoft workflow](images/agisoft_workflow.png "3D point cloud")
+![Agisoft workflow]([images/agisoft_workflow.png "3D point cloud"](https://github.com/GeowazM/Short_introduction_to_UAV_mapping/blob/main/images/agisoft_workflow.png?raw=true))
 
 
 
