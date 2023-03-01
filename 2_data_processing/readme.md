@@ -46,3 +46,8 @@ After creating a point cloud in Agisoft it can look like the example below.
 ### Agisoft Metashape Tutorials
 * [Agisoft Metashape Guide](https://devstudio.dartmouth.edu/wordpress/metashape-guide/)
 * [Agisoft manual](https://www.agisoft.com/pdf/metashape-pro_1_6_en.pdf)
+
+![Agisoft workflow](images/agisoft_workflow.png "3D point cloud")
+
+
+
