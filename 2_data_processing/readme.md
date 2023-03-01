@@ -49,5 +49,11 @@ After creating a point cloud in Agisoft it can look like the example below.
 
 ![Agisoft workflow]([images/agisoft_workflow.png "3D point cloud"](https://github.com/GeowazM/Short_introduction_to_UAV_mapping/blob/main/images/agisoft_workflow.png?raw=true))
 
+<p align="center">
+     Source: <a href = "https://devstudio.dartmouth.edu/wordpress/metashape-guide/"> Metashape Guide </a>
+</p>
+
+
+
 
 
